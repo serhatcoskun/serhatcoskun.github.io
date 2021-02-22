@@ -1,10 +1,10 @@
 {
   "isForceUpdate": false,
   "isPackageOpen": false,
-  "isThereError": true,
+  "isThereError": false,
   "isChangeBase": false,
   "baseUrl": "http://51.15.106.194",
-  "errorText": "test error test",
+  "errorText": "Try it in an hour. Teknik bir hata var lütfen bir saat sonra tekrar deneyin.",
   "version": "0.0.3",
   "isThereIP": true
 }
