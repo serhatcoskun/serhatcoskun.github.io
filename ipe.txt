@@ -1,9 +1,10 @@
 {
-  "isForceUpdate": true,
+  "isForceUpdate": false,
   "isPackageOpen": false,
-  "isThereError": false,
+  "isThereError": true,
   "isChangeBase": false,
   "baseUrl": "http://51.15.106.194",
-  "errorText": "test error",
-  "version": "0.0.3"
+  "errorText": "test error test",
+  "version": "0.0.3",
+  "isThereIP": true
 }
