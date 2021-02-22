@@ -1,6 +1,6 @@
 {
   "isForceUpdate": false,
-  "isPackageOpen": false,
+  "isPackageOpen": true,
   "isThereError": false,
   "isChangeBase": false,
   "baseUrl": "http://51.15.106.194",
