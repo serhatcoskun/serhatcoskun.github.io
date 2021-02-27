@@ -6,5 +6,5 @@
   "baseUrl": "http://51.15.106.194",
   "errorText": "Try it in an hour. Teknik bir hata var lütfen bir saat sonra tekrar deneyin.",
   "version": "0.0.3",
-  "isThereIP": false
+  "isThereIP": true
 }
